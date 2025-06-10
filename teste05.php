@@ -9,7 +9,7 @@
         Números pares até dez:
         <?php
         $i = 2;
-        do {
+        do{
             echo $i.", ";
             $i = $i + 2;
         } while ($i <= 10);
